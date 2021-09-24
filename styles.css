@@ -1,0 +1,15 @@
+:root{
+    --blanco: #ffffff;
+    --negro: #000000;
+    --oscuro: #212121;
+    --rojo
+}
+
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+ 
