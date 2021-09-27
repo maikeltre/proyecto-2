@@ -1,0 +1,28 @@
+{
+  "name": "proyecto-2",
+  "version": "1.0.0",
+  "description": "\"Aprendiendo SASS, carrusel y animaciones\"",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maikeltre/proyecto-2.git"
+  },
+  "keywords": [
+    "SASS",
+    "Carrusel",
+    "Animaciones"
+  ],
+  "author": "Maikel Trejos Cedeño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maikeltre/proyecto-2/issues"
+  },
+  "homepage": "https://github.com/maikeltre/proyecto-2#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0"
+  }
+}
